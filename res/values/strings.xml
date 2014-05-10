@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">puzzleGames</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+<string name="no_moves_label">No moves</string>
+<string name="keypad_title">Keypad</string>
+</resources>
